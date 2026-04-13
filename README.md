@@ -1,2 +1,2 @@
 # mi-primer-proyecto-github
-Es un repositorio de ejemplo 
+¡Este es mi primer cambio gestionado con Git desde el ITPM!" 
